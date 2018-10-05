@@ -1,6 +1,6 @@
 # Pkgm
 
-[![Build Status](https://travis-ci.org/CodeboxIDE/pkgm.png?branch=master)](https://travis-ci.org/CodeboxIDE/pkgm)
+[![Build Status](https://travis-ci.org/CodeboxIDE/pkgm.png?branch=master)](https://travis-ci.org/CodeboxIDE/pkgm) [![Greenkeeper badge](https://badges.greenkeeper.io/uniibu/ds-pkgm.svg)](https://greenkeeper.io/)
 
 Make it easy to build a package manager for client/node large applications.
 
